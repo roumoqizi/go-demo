@@ -1,3 +1,3 @@
-module roumoqiezi.com/go-demo
+module github.com/roumoqizi/go-demo
 
 go 1.20
